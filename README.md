@@ -1,1 +1,3 @@
 # gitpracticerepo
+
+Iam practcing git
