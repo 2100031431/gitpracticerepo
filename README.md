@@ -1,3 +1,3 @@
 # gitpracticerepo
 
-Iam practcing git
+Iam from computer Science and Engineering Background
